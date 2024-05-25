@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188051243095",
+    "project_id": "weather1-79023",
+    "storage_bucket": "weather1-79023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188051243095:android:0943d4c62cf5170e04e312",
+        "android_client_info": {
+          "package_name": "com.example.weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf2DvKui2zHLVv4AIT5V2XWcjtK219pYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

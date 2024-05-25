@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/city_name_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Название города"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/city_detail_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Подробная информация о погоде"
+        android:textSize="18sp" />
+    <EditText
+        android:id="@+id/interval_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Интервал в минутах" />
+
+    <Button
+        android:id="@+id/set_notification_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Установить уведомление" />
+</LinearLayout>

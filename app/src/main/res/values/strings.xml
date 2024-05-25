@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ПОГОДА</string>
+    <string name="drawer_open">ПОГОДА</string>
+    <string name="drawer_close">ПОГОДА</string>
+</resources>

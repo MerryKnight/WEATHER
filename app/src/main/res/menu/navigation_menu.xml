@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/main"
+            android:title="Главная"/>
+        <item
+            android:id="@+id/about_program"
+            android:title="О программе"/>
+        <item
+            android:id="@+id/about_author"
+            android:title="Об авторе"/>
+        <item
+            android:id="@+id/exit"
+            android:title="Выйти из аккаунта"/>
+    </group>
+</menu>
